@@ -60,11 +60,11 @@ Once the repository is created, let us add our test results file (for the purpos
 
 3. In your git repository, click **New** > **File**
 
-<IMG>
+![image](https://github.com/user-attachments/assets/cd34def8-680c-4250-9501-bf683b4e630e)
 
 4. Enter the file name `test-results.xml` and click create.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/3b9a959c-3535-450b-af50-d1da15af79aa)
 
 5. Below is a simple example of a JUnit test results XML file for demo purposes. Copy and paste the contents into your `test-results.xml` file and click **Commit**:
 
