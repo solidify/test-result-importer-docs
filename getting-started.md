@@ -191,12 +191,12 @@ Once the repository is created, let us add our test results file (for the purpos
 
 1. Click on the pipeline run and navigate to the **Logs** section.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/9931f5ea-1ef1-4b1b-bb2d-1af7f05391ed)
 
 2. Review the output for the **Import Test Scenarios** task.
 3. Ensure that the task logs indicate a successful import of the test scenarios.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/43f5cee8-7a81-4fa1-8008-127b50cf0ee5)
 
 ### Step 10: Verify Test Plan and Test Cases
 
@@ -205,7 +205,7 @@ Once the repository is created, let us add our test results file (for the purpos
 3. Verify that the test cases from the JUnit test data file have been imported.
 4. Ensure that the structure (e.g., test cases, test steps) is correctly represented as expected.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/4bb3492c-4484-4d03-bee4-9c018e4d7859)
 
 ### Summary
 
