@@ -1,4 +1,4 @@
-# Setting Up the Test Results Importer Extension for Azure DevOps by Solidify
+![image](https://github.com/user-attachments/assets/f1dac8db-6d91-4f15-a7bb-0bd303610a2b)# Setting Up the Test Results Importer Extension for Azure DevOps by Solidify
 
 This document will guide first-time users through the process of setting up and using the **Test Results Importer** extension for Azure DevOps by Solidify. This extension allows users to import test scenarios into Azure DevOps test plans, making it easier to manage test cases.
 
@@ -156,11 +156,11 @@ Once the repository is created, let us add our test results file (for the purpos
 
 1. In the YAML pipeline editor, click on **Show assistant** on the right side.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/7de534b3-8c49-4576-be61-0c753889455e)
 
 2. Search for **Import Test Scenarios**, and select the **Import Test Scenarios** task from the list.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/0fc4251a-054c-4c96-a9dc-6afcd037d593)
 
 3. Fill in the required parameters:
    - **Testresults filepath**: The root path to your testresults file, default: `$(System.DefaultWorkingDirectory)`
@@ -183,7 +183,7 @@ Once the repository is created, let us add our test results file (for the purpos
 1. After saving, the pipeline will automatically start running.
 2. If it does not start automatically, click **Run pipeline** manually.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/39ec3661-a9fe-42bd-a0ce-b57268d8718a)
 
 3. Wait for the pipeline to complete. You might need to refresh the web page to see the status of the pipeline.
 
