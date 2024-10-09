@@ -24,7 +24,7 @@ This document will guide first-time users through the process of setting up and 
 4. Click on **Manage**.
 5. Under the **Enter License Manually** section, there is a text field. Paste the contents of the json file in its entirety here.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/66fbbf5a-6b15-4cb5-a5fa-4e4f22b4ddb8)
 
 6. Click **Activate license**. Verify that the extension has been activated. There should be a green text saying *License activated*. If not, contact us at <support.tri@solidify.dev>.
 
@@ -33,15 +33,15 @@ This document will guide first-time users through the process of setting up and 
 1. Go to the **Azure DevOps** project where you want to use the extension.
 2. Navigate to **Test Plans**.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/a5ef9b8c-7bf8-481c-98a3-eb4643aa6679)
 
 3. Click on **New Test Plan**.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/fcb04145-1817-48f0-897f-a4f6cb0d62fd)
 
 4. Provide a name for the Test Plan (e.g., **Sample Test Plan**) and select the area path and iteration path as needed.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/cdad38c4-8999-48fe-af87-d25b2421661d)
 
 5. Click **Create**.
 6. **Note down the name** of the Test Plan as it will be needed when configuring the pipeline task.
@@ -50,11 +50,11 @@ This document will guide first-time users through the process of setting up and 
 
 1. Go to **Repos** and create a **new repository**.
 
-<IMG>
+![image](https://github.com/user-attachments/assets/d528529e-ae13-4914-a1f9-b4ecc7bc911a)
 
 2. Provide a **Repository name** and click **Create**
 
-<IMG>
+![image](https://github.com/user-attachments/assets/f7c8c623-b85f-497c-9594-949c2459be7d)
 
 Once the repository is created, let us add our test results file (for the purpose of the demo, we will keep a **JUnit** test results file in our git repository. Keep in mind that in a production scenario, you would have the Test Results Importer as a separate step in the build automation after your tests).
 
@@ -170,7 +170,7 @@ Once the repository is created, let us add our test results file (for the purpos
 
   This is all the configuration required! However, you can see that there are a lot more options to try out (you can hover over the info icon for each parameter to see an informative tooltip):
 
-<IMG>
+![image](https://github.com/user-attachments/assets/d7127ffc-3f36-4975-b2b6-443a5cdaa75e)
 
 ### Step 7: Save the Pipeline
 
