@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1dac8db-6d91-4f15-a7bb-0bd303610a2b)# Setting Up the Test Results Importer Extension for Azure DevOps by Solidify
+# Setting Up the Test Results Importer Extension for Azure DevOps by Solidify
 
 This document will guide first-time users through the process of setting up and using the **Test Results Importer** extension for Azure DevOps by Solidify. This extension allows users to import test scenarios into Azure DevOps test plans, making it easier to manage test cases.
 
